@@ -1,12 +1,12 @@
 module.exports = {
     app: {
         px: '-',
-        token: 'MTEzODU1OTg5OTUzNDYyNjgyNg.GJxSvk.tCN7LY3TrfoKwXinD3GZ8ZjIkH6uRuIE0pd6j4',
-        owners: '774361517042171924',
-        funny: '774361517042171924',
+        token: 'TOKEN',
+        owners: 'ID-OWNER',
+        funny: 'ID-FUNNY',
         color: '#00001',
         footer: 'Royaume Abus',
-        maxserver: '3',
+        maxserver: '10',
         everyoneMention: false,
         hostedBy: true,
         }
